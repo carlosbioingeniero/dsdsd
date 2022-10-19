@@ -1,8 +1,9 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: "sd"
+  name: sd
   annotations:
+    github.com/project-slug: carlosbioingeniero/dsdsd   
     backstage.io/techdocs-ref: dir:.
 spec:
   type: service
