@@ -3,7 +3,7 @@ kind: Component
 metadata:
   name: sd
   annotations:
-    github.com/project-slug: carlosbioingeniero/dsdsd   
+    github.com/project-slug: carlosbioingeniero/sd 
     backstage.io/techdocs-ref: dir:.
 spec:
   type: service
